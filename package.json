@@ -12,7 +12,7 @@
   "license": "MIT",
   "author": "",
   "scripts": {
-    "build": "npm build",
+    "build": "next build",
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start"
